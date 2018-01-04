@@ -2,8 +2,7 @@
 
 //Zack Laine
 //CS 262, Section 003
-//Project 1: Sarvi Peli
-
+//Project 1: Redacted at request of pressor
 #include <stdio.h>
 #include <stdlib.h>
 
