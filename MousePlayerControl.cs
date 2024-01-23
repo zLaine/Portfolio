@@ -5,7 +5,7 @@ A character control script for a Game Jam project done in Unity
 Hrothvitnir
 48 hour project
 4 person team
-48 hour deadline for project
+C#
 12/2015
 
 Zack Laine
