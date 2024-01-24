@@ -2,7 +2,7 @@
 
 //Zack Laine
 //CS 262, Section 003
-//Project 1: Redacted at request of pressor
+//Project 1: Antler Game
 #include <stdio.h>
 #include <stdlib.h>
 
