@@ -1,5 +1,5 @@
 """
-combine.py
+Combine.py
 Developed by: Zack Laine
 
 A basic data manipulation script I wrote. 
